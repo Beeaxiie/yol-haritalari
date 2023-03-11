@@ -6,6 +6,3 @@
 > [Twitter](https://twitter.com/beeaxiie)
 >
 > Discord: Beeaxiie#3497 
-
-[sss](#Yol haritaları)
-
