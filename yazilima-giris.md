@@ -1,5 +1,3 @@
-# Yol haritam
-
 1. ## Giriş
 
 > - Girişte yazılım dünyasına ilk adımımızı atıyoruz.
