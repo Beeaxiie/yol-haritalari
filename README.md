@@ -5,7 +5,7 @@
 > Bu profilde birden fazla alan için yol haritaları yapıp, paylaşacağım. Paylaşırsanız diğerlerine yardımcı olabilirsiniz iyi günler dilerim!
 
 - Sorularınızı bu platformlardan bana söyleyebilirsiniz.
-> 
 > [Twitter](https://twitter.com/beeaxiie)
-> Discord: Beeaxiie#3497 
 >
+> Discord: Beeaxiie#3497 
+
