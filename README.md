@@ -6,5 +6,3 @@
 - Başarılar!
 
 > [Twitter](https://twitter.com/beeaxiie)
->
-> Discord: Beeaxiie#3497 
