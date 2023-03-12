@@ -6,7 +6,7 @@
 
 - Arkadaşlar bu yol haritasını öğrenmeden önce `yazilima-giris.md` dosyasını okumanızı şiddetle tavsiye ederim. O dosyayı tamamladıktan sonra bu yol haritasını yapın.
 
-1. ## Giriş front-
+1. ## Giriş front-end
 
 > - Full stack developer olmak için öncelikle front-end'i iyi bilmek gerekir.
 >
